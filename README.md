@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Degree in IT mjr in Cyber | CCNA
 - 📫 How to reach me ... jeremyn.2@hotmail.com
 LinkedIn: https://www.linkedin.com/in/jeremy-johnson-883142204/
+
 Certifications: 
   CompTIA Security+
   LPI Linux Essentials
@@ -11,17 +12,18 @@ Certifications:
 Blue Team Labs Online 
 https://blueteamlabs.online/public/user/jeremyjohnson
   Investigations:
+    
     Incident Response
       Deep Blue -> DeepBlueCLI, Log Analysis
       https://blueteamlabs.online/achievement/share/6583/32
-      
     Security Operations
       PE -> ELK Kibana
       https://blueteamlabs.online/achievement/share/6583/61
-    
+      
     
     Reverse Engineering
 
     Digital Forensics
-
+      Browswer Bruises -> Dumpzilla
+      https://blueteamlabs.online/achievement/share/6583/50
     Retired
