@@ -4,10 +4,7 @@
 - 📫 How to reach me ... jeremyn.2@hotmail.com
 LinkedIn: https://www.linkedin.com/in/jeremy-johnson-883142204/
 
-Certifications: 
-  CompTIA Security+
-  LPI Linux Essentials
-  Blue Team Level 1
+Certifications: CompTIA Security+ | LPI Linux Essentials | Blue Team Level 1
 
     Blue Team Labs Online 
     https://blueteamlabs.online/public/user/jeremyjohnson   
