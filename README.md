@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeremyjohnson2
+- 👋 Hi, I’m Jeremy Johnson
 - 👀 I’m interested in ... Cyber (Blue Teaming -> SOC / IR)
 - 🌱 I’m currently learning ... Degree in IT mjr in Cyber | CCNA
 - 📫 How to reach me ... jeremyn.2@hotmail.com
