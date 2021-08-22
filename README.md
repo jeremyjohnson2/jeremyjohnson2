@@ -22,6 +22,8 @@ Certifications: CompTIA Security+ | LPI Linux Essentials | Blue Team Level 1
             https://blueteamlabs.online/achievement/share/6583/15
           Total Recall -> FireEye Redline
             https://blueteamlabs.online/achievement/share/6583/11
+          Print -> Windows Event Viewer
+            https://blueteamlabs.online/achievement/share/6583/73
           
         Security Operations
           PE -> ELK Kibana
@@ -30,7 +32,7 @@ Certifications: CompTIA Security+ | LPI Linux Essentials | Blue Team Level 1
             https://blueteamlabs.online/achievement/share/6583/43
           SOC Alpha 2 -> ELK Kibana, Log Analysis, Network Analysis
             https://blueteamlabs.online/achievement/share/6583/44
-          SOC Alpha 3 ->ELK Kibana, Log Analysis, Network Analysis
+          SOC Alpha 3 -> ELK Kibana, Log Analysis, Network Analysis
             https://blueteamlabs.online/achievement/share/6583/58
           Defaced -> ELK Kibana
             https://blueteamlabs.online/achievement/share/6583/7
