@@ -30,8 +30,12 @@ Certifications: CompTIA Security+ | LPI Linux Essentials | Blue Team Level 1
             https://blueteamlabs.online/achievement/share/6583/43
           SOC Alpha 2 -> ELK Kibana, Log Analysis, Network Analysis
             https://blueteamlabs.online/achievement/share/6583/44
+          SOC Alpha 3 ->ELK Kibana, Log Analysis, Network Analysis
+            https://blueteamlabs.online/achievement/share/6583/58
           Defaced -> ELK Kibana
             https://blueteamlabs.online/achievement/share/6583/7
+          Sam -> Sysmon Log Analysis with Linux CLI, Volatility
+            https://blueteamlabs.online/achievement/share/6583/29
             
         Reverse Engineering
           Gotham -> IDA
