@@ -48,6 +48,8 @@ Certifications: CompTIA Security+ | LPI Linux Essentials | Blue Team Level 1
         Digital Forensics
           Browswer Bruises -> Dumpzilla
             https://blueteamlabs.online/achievement/share/6583/50
+          Trash -> Windows Recycle Bin functionality
+            https://blueteamlabs.online/achievement/share/6583/69
           Sticky Situation -> Autopsy 
             https://blueteamlabs.online/achievement/share/6583/3
           
