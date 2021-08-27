@@ -47,7 +47,9 @@ Certifications: CompTIA Security+ | LPI Linux Essentials | Blue Team Level 1
           
         Digital Forensics
           Browswer Bruises -> Dumpzilla
-          https://blueteamlabs.online/achievement/share/6583/50
+            https://blueteamlabs.online/achievement/share/6583/50
+          Sticky Situation -> Autopsy 
+            https://blueteamlabs.online/achievement/share/6583/3
           
         Retired
           Invoice -> ELK Kibana, WireShark, Linux CLI
